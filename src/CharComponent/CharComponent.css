@@ -1,0 +1,8 @@
+.char-print{
+    padding: 5px;
+    background-color: #eee;
+    width: 20px;
+    float: left;
+    margin: auto 10px;
+    border: 1px solid #000;
+}
